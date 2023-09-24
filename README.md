@@ -34,3 +34,7 @@ Para executar a aplicação Spring Boot, siga estas etapas:
 
 ```shell
 ./mvnw spring-boot:run
+
+
+![Visualização da documentacao](https://github.com/tiagoantunesp/doc-api/blob/d4e871905cb9537b7ccc12a555d61d973e460ee0/documetacao.png)https://github.com/tiagoantunesp/doc-api/blob/d4e871905cb9537b7ccc12a555d61d973e460ee0/documetacao.png)
+
