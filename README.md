@@ -2,7 +2,7 @@
 
 Bem-vindo à API Spring Boot para Músicas e Autores. Esta API fornece acesso a recursos relacionados a músicas e autores. Ela é protegida por uma chave de API para fins de autenticação.
 
-![Visualização da documentacao](https://github.com/tiagoantunesp/doc-api/blob/d4e871905cb9537b7ccc12a555d61d973e460ee0/documetacao.png)https://github.com/tiagoantunesp/doc-api/blob/d4e871905cb9537b7ccc12a555d61d973e460ee0/documetacao.png)
+![Visualização da documentacao](documetacao.png)
 
 ## Descrição Geral
 
