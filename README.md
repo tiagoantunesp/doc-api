@@ -25,7 +25,7 @@ Bem-vindo à API Spring Boot para Músicas e Autores. Esta API fornece acesso a 
 
 A documentação da API pode ser acessada em [Swagger UI](http://localhost:5005/swagger-ui/index.html/). Lá, você encontrará detalhes sobre os endpoints, parâmetros, respostas e como usar a API.
 
-Para acessar o arquivo specification da API em [OpenAPISpecification](print-doc.png)
+Para acessar o arquivo specification da API em [OpenAPISpecification](api-specification-doc.yaml)
 
 ## Como Executar
 
